@@ -24,7 +24,6 @@ public:
 		i++;
 	}
 
-	//return stoi(stringValue);
 	return num;
     }
 
